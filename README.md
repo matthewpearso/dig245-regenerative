@@ -146,6 +146,8 @@ See the [Critical Web Design Index](https://omundy.github.io/critical-web-design
 <details>
 <summary>Past examples</summary>
   
+- 2024
+	- Julia [Queer Anthem Generator](https://siqjulia.github.io/dig245-regenerative/)
 - 2023
     - David [Click Anywhere](https://davidmhilton.github.io/dig245-regenerative/)
     - Alp [Network](https://alpnix.github.io/dig245-regenerative/)
