@@ -64,12 +64,12 @@ See Moodle.
 
 ### Inspiration
 
-- Chapter [examples](https://omundy.github.io/critical-web-design-book/#chapter-8-generative-design): 
-[Haiku (Birds)](https://omundy.github.io/critical-web-design-book/06-off-the-grid/examples/birds.html), 
-[Generative (Jean) Arp](https://omundy.github.io/critical-web-design-book/08-generative-design/examples/generative-arp), 
-[Band Name Generator](https://omundy.github.io/critical-web-design-book/08-generative-design/examples/band-name-generator), [Music Venue Generator](https://omundy.github.io/critical-web-design-book/08-generative-design/examples/music-venue-generator.html), [String Art Generator](https://omundy.github.io/critical-web-design-book/08-generative-design/examples/string-art-generator/dist/) 
+- Chapter [examples](https://criticalwebdesign.github.io/book/#chapter-8-generative-design): 
+[Haiku (Birds)](https://criticalwebdesign.github.io/book/06-off-the-grid/examples/birds.html), 
+[Generative (Jean) Arp](https://criticalwebdesign.github.io/book/08-generative-design/8-3), 
+[Band Name Generator](https://criticalwebdesign.github.io/book/08-generative-design/examples/band-name-generator), [Music Venue Generator](https://criticalwebdesign.github.io/book/08-generative-design/examples/music-venue-generator.html), [String Art Generator](https://criticalwebdesign.github.io/book/08-generative-design/examples/string-art-generator/dist/) 
 
-See the [Critical Web Design Index](https://omundy.github.io/critical-web-design-index/) for examples tagged with [#randomness](https://omundy.github.io/critical-web-design-index#randomness) or [#remix](https://omundy.github.io/critical-web-design-index#remix), including...
+See the [Critical Web Design Index](https://criticalwebdesign.github.io/index/) for examples tagged with [#randomness](https://criticalwebdesign.github.io/index#randomness) or [#remix](https://criticalwebdesign.github.io/index#remix), including...
 
 - Chris Baker, Mike Lacher, and Richard Baker [Troll the NSA](http://ilovechrisbaker.com/troll-the-nsa/) (2013)
 - Rafaël Rozendaal [Abstract Browsing](http://www.abstractbrowsing.net) (2014)
