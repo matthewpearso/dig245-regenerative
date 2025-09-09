@@ -20,7 +20,9 @@ This process is evident in many other "design" contexts. For example, [Generativ
 
 
 <details>
-<summary>Learning Objectives</summary>
+<summary>Learning Objectives, Preparation, Rubric</summary>
+
+### Learning Objectives
 
 Students who complete this assignment will be able to:
 
@@ -30,11 +32,8 @@ Students who complete this assignment will be able to:
 - Use HTML, CSS, Bootstrap, and JS build  final application.
 - Design an identity for the project that communicates a theme or concept
 
-</details>
 
-
-<details>
-<summary>Preparation</summary>
+### Preparation
 
 Complete the following to prepare for this assignment. See [Resources](#resources) for additional information as needed.
 
@@ -44,60 +43,23 @@ Complete the following to prepare for this assignment. See [Resources](#resource
 - [Codecademy: JS 6-1 Loops](https://www.codecademy.com/learn/introduction-to-javascript) (1–7)
 - Javascript.info JS [Comparison](https://javascript.info/comparison), [Logical operators](https://javascript.info/logical-operators), [Functions](https://javascript.info/function-basics), [Loops: while and for](https://javascript.info/while-for)
 
-</details>
 
-<details>
-<summary>Rubric</summary>
+### Rubric
+
 See Moodle.
+
 </details>
 
 
-
-
-
-## Concept
-
-- 📚 "Off the Grid" (chapter 6) and "Generative Design" (chapter 8) in *Critical Web Design*
-
-
-
-
-### Inspiration
-
-- Chapter [examples](https://criticalwebdesign.github.io/book/#chapter-8-generative-design): 
-[Haiku (Birds)](https://criticalwebdesign.github.io/book/06-off-the-grid/examples/birds.html), 
-[Generative (Jean) Arp](https://criticalwebdesign.github.io/book/08-generative-design/8-3), 
-[Band Name Generator](https://criticalwebdesign.github.io/book/08-generative-design/examples/band-name-generator), [Music Venue Generator](https://criticalwebdesign.github.io/book/08-generative-design/examples/music-venue-generator.html), [String Art Generator](https://criticalwebdesign.github.io/book/08-generative-design/examples/string-art-generator/dist/) 
-
-See the [Critical Web Design Index](https://criticalwebdesign.github.io/index/) for examples tagged with [#randomness](https://criticalwebdesign.github.io/index#randomness) or [#remix](https://criticalwebdesign.github.io/index#remix), including...
-
-- Chris Baker, Mike Lacher, and Richard Baker [Troll the NSA](http://ilovechrisbaker.com/troll-the-nsa/) (2013)
-- Rafaël Rozendaal [Abstract Browsing](http://www.abstractbrowsing.net) (2014)
-- Colleen Josephson and Kyle Miller [endless.horse](http://endless.horse) (2015)
-- Mark Sample [Two Moji](http://fugitivetexts.net/twomoji) (2018)
-- Tero Parviainen [How Generative Music Works](https://teropa.info/loop/)
-- Kevan Davis [eBay Feedback Generator](http://thesurrealist.co.uk/feedback) (2005)
-- 0x72 [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker) (example of [sprite](https://raw.githubusercontent.com/omundy/sample-unity-animation/main/Assets/Sprite_Anim_Fred/Textures/fred-cinemachine-2.gif))
-
-
-### Articles
-
-- 📚 Dan Howarth "[Generative Design Software Will Give Designers ‘Superpowers’](https://www.dezeen.com/2017/02/06/generative-design-software-will-give-designers-superpowers-autodesk-university/)" (2017), [video](https://www.youtube.com/watch?v=h7gq7OrbgxY) (2:18) 
-- Eduardo Souza "[How Will Generative Design Impact Architecture?](https://www.archdaily.com/937772/how-will-generative-design-impact-architecture)" (2020)
-- Others from this [Random Article Generator](https://codepen.io/owenmundy/pen/PomvjqW?editors=1010)
-
-
-
-### Data sources
-
-- [faker.js](https://www.npmjs.com/package/faker) and [hosted version](https://fakercloud.com/api), and [similar projects](https://awesomeopensource.com/projects/faker)
-- [public-apis](https://github.com/public-apis/public-apis), [apilist.fun](https://apilist.fun/), and [No Auth APIs](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/) - free APIs for software and web development. For example: [Cat Facts](https://alexwohlbruck.github.io/cat-facts/), [Free IP Geolocation API](https://freegeoip.app/json/), [Random User](https://randomuser.me/api/)
 
 
 
 
 ## Design
 
+Follow the prompt in Chapter 8 of *Critical Web Design* ... 
+
+1. Find [inspiration](#inspiration) in other works.
 1. Develop a concept for your project. Consider the above prompt and inspiration.
 1. Use [Figma](https://figma.com) to create a wireframe and design iterations for your project. Start with desktop design, then create the mobile layout once you have made a few iterations. 
 1. Use Figma to diagram any data transformations or flowcharts as needed. Show the different stages of the user experience or how your app changes depending on the content.
@@ -105,7 +67,7 @@ See the [Critical Web Design Index](https://criticalwebdesign.github.io/index/) 
 
 ## Code
 
-1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository and [clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) it to your machine.
+1. Fork this repository and clone it to your machine.
 1. Begin the code portion by writing out the pseudocode for your project. [See this activity for practice](https://github.com/omundy/learn-computing/blob/main/topics/computational-thinking.md#pseudocode). Save the pseudocode in a comment in your Javascript.
 1. Use HTML, CSS, and JS to code your design inside `index.html`
 1. Use Javascript variables, conditional logic, loops, etc. to somehow change the page every time it loads.
@@ -137,9 +99,41 @@ See the [Critical Web Design Index](https://criticalwebdesign.github.io/index/) 
 
 ## Resources
 
+### Technology
+
 - Course resources [HTML](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/html.md), [CSS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md), [JS](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/javascript/javascript.md), [Figma](https://github.com/omundy/dig245-critical-web-design#figma), [Bootstrap](https://github.com/omundy/dig245-critical-web-design#bootstrap)
 - [Mozilla Developer Guides](https://developer.mozilla.org/en-US/docs/Web/Guide)
 
+
+### Inspiration
+
+- 📚 "Off the Grid" (chapter 6) and "Generative Design" (chapter 8) in *Critical Web Design*
+- Chapter [examples](https://criticalwebdesign.github.io/book/#chapter-8-generative-design): 
+[Haiku (Birds)](https://criticalwebdesign.github.io/book/06-off-the-grid/examples/birds.html), 
+[Generative (Jean) Arp](https://criticalwebdesign.github.io/book/08-generative-design/8-3), 
+[Band Name Generator](https://criticalwebdesign.github.io/book/08-generative-design/examples/band-name-generator), [Music Venue Generator](https://criticalwebdesign.github.io/book/08-generative-design/examples/music-venue-generator.html), [String Art Generator](https://criticalwebdesign.github.io/book/08-generative-design/examples/string-art-generator/dist/) 
+- Related projects (and tags [#randomness](https://criticalwebdesign.github.io/index#randomness) [#remix](https://criticalwebdesign.github.io/index#remix)) in the [Critical Web Design Index](https://criticalwebdesign.github.io/index/)...
+  - Chris Baker, Mike Lacher, and Richard Baker [Troll the NSA](http://ilovechrisbaker.com/troll-the-nsa/) (2013)
+  - Rafaël Rozendaal [Abstract Browsing](http://www.abstractbrowsing.net) (2014)
+  - Colleen Josephson and Kyle Miller [endless.horse](http://endless.horse) (2015)
+  - Mark Sample [Two Moji](http://fugitivetexts.net/twomoji) (2018)
+  - Tero Parviainen [How Generative Music Works](https://teropa.info/loop/)
+  - Kevan Davis [eBay Feedback Generator](http://thesurrealist.co.uk/feedback) (2005)
+  - 0x72 [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker) (example of [sprite](https://raw.githubusercontent.com/omundy/sample-unity-animation/main/Assets/Sprite_Anim_Fred/Textures/fred-cinemachine-2.gif))
+
+
+### Articles
+
+- 📚 Dan Howarth "[Generative Design Software Will Give Designers ‘Superpowers’](https://www.dezeen.com/2017/02/06/generative-design-software-will-give-designers-superpowers-autodesk-university/)" (2017), [video](https://www.youtube.com/watch?v=h7gq7OrbgxY) (2:18) 
+- Eduardo Souza "[How Will Generative Design Impact Architecture?](https://www.archdaily.com/937772/how-will-generative-design-impact-architecture)" (2020)
+- Others from this [Random Article Generator](https://codepen.io/owenmundy/pen/PomvjqW?editors=1010)
+
+
+
+### Data sources
+
+- [faker.js](https://www.npmjs.com/package/faker) and [hosted version](https://fakercloud.com/api), and [similar projects](https://awesomeopensource.com/projects/faker)
+- [public-apis](https://github.com/public-apis/public-apis), [apilist.fun](https://apilist.fun/), and [No Auth APIs](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/) - free APIs for software and web development. For example: [Cat Facts](https://alexwohlbruck.github.io/cat-facts/), [Free IP Geolocation API](https://freegeoip.app/json/), [Random User](https://randomuser.me/api/)
 
 
 
