@@ -15,7 +15,9 @@ This assignment asks you to create a web page that can generate new iterations o
 
 Nearly every software or dynamic website generates their interfaces using data. Even a boring shopping website uses cookies to identify and customize pages for users ([regardless who stands to benefit](https://www.justice.gov/opa/pr/amazon-marketplace-seller-pleads-guilty-price-fixing-dvds-and-blu-ray-discs)).
 
-This process is evident in many other "design" contexts. For example, [Generative Design](https://en.wikipedia.org/wiki/Generative_design) is a related cultural trend that, similar to data-driven websites, uses coded rules and algorithms to create (and recreate) concepts and forms for architecture, objects, behaviors, animations, games, and much more. This diagram from, [Generative Design: Visualize, Program, and Create with JavaScript in p5.js](http://www.generative-gestaltung.de/) by Groß, Bohnacker, and Laub, shows how these processes can create new iterations, using varying degrees of input from the creator, to ideate or solve specific design or aesthetic problems. Regardless of your approach, your project should mimic or somehow find inspiration in these processes, to reflect your own thinking on the subject.
+This process is evident in many other "design" contexts. For example, [Generative Design](https://en.wikipedia.org/wiki/Generative_design) is a related cultural trend that, similar to data-driven websites, uses coded rules and algorithms to create (and recreate) concepts and forms for architecture, objects, behaviors, animations, games, and much more. This diagram from, [Generative Design: Visualize, Program, and Create with JavaScript in p5.js](http://www.generative-gestaltung.de/) by Groß, Bohnacker, and Laub, shows how these processes can create new iterations, using varying degrees of input from the creator, to ideate or solve specific design or aesthetic problems. 
+
+In addition to problem solving for humans, you could also imagine a different audience. For example, consider making this proejct for your computer or your dog or a cup of coffee. Regardless of your approach, your project should mimic or somehow find inspiration in these processes, to reflect your own thinking on the subject.
 
 
 
@@ -142,6 +144,7 @@ Follow the prompt in Chapter 8 of *Critical Web Design* ...
   
 - 2024
 	- Julia [Queer Anthem Generator](https://siqjulia.github.io/dig245-regenerative/)
+	- Whitney [Cat Timer](https://winne-inne.github.io/dig245-regenerative/)
 - 2023
     - David [Click Anywhere](https://davidmhilton.github.io/dig245-regenerative/)
     - Alp [Network](https://alpnix.github.io/dig245-regenerative/)
@@ -152,7 +155,7 @@ Follow the prompt in Chapter 8 of *Critical Web Design* ...
     - Nam [OptiMedia Networks (OMN)](https://namdao2508.github.io/dig245-regenerative/)
     - Meredith [Your Future in 10](https://merhaines.github.io/dig245-regenerative/)
     <!-- - Patrick [Island Adventure](https://patrick-leary.github.io/dig245-regenerative/) -->
-    - Erika [Music Generator](https://erikan14.github.io/dig245-regenerative/)†
+    <!-- - Erika [Music Generator](https://erikan14.github.io/dig245-regenerative/)† -->
 - 2021
     - Annelise [Road Trip](https://anclaire.github.io/dig245-regenerative)
     - Drew [Probability Football](https://drdibble.github.io/dig245-regenerative)
@@ -169,7 +172,7 @@ Follow the prompt in Chapter 8 of *Critical Web Design* ...
 - 2009
     - Jose [Band Name Generator](https://www.youtube.com/watch?v=mUeBQCInZ2o&list=PLhpnnpt3tw-RiiFG9p_OJgjAfH-6kyAIK&index=16)
 - 2008
-    - Rachel Rossin [Random Paint Splatter]
+    - Rachel [Random Paint Splatter]
 - 2007
     - Alexander [String Art Generator]
 
