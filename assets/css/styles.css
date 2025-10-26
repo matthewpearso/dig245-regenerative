@@ -1,2 +1,18 @@
 
-/* css */
+
+.background{
+    background-color: #932222;
+    color: white;
+}
+
+.linden-hill-regular {
+  font-family: "Linden Hill", serif;
+  font-weight: 300;
+  font-size: xx-large;
+  letter-spacing: 1.5px;
+}
+
+h1{
+    text-align: center;
+    margin-top: 130px;
+}
