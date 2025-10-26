@@ -49,5 +49,50 @@ h1{
     margin-top: 60px;
     width: 300px;
     animation: pulse 2.5s infinite;
-    
+    transition: transform 250ms ease, filter 250ms ease;
+}
+
+.wholecookie:hover {
+    animation-play-state: paused;
+}
+
+#leftcookie, #rightcookie {
+    display: none;
+}
+
+#leftcookie {
+    position: absolute;
+    left: 25%;
+    top: 40%;
+    width: 200px;
+    transform: rotate(20deg);
+}
+#rightcookie {
+    position: absolute;
+    right: 25%;
+    top: 40%;
+    width: 200px;
+    transform: rotate(-20deg);
+}
+
+#resetButton {
+    display: block;
+    margin: 20px auto;
+    margin-bottom: 40px;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-family: "Linden Hill", serif;
+    background-color: #4f1313;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+    transition: background-color 200ms ease, color 200ms ease;
+}
+
+#resetButton:hover {
+    background-color: #641b1b;
+    color: #e0e0e0;
+    transition: ease-in 200ms;
 }
