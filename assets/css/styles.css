@@ -7,12 +7,27 @@
 
 .linden-hill-regular {
   font-family: "Linden Hill", serif;
-  font-weight: 300;
-  font-size: xx-large;
+  font-weight: 400;
+  font-size: 35px;
   letter-spacing: 1.5px;
 }
 
 h1{
     text-align: center;
-    margin-top: 130px;
+    margin-top: 150px;
+    text-shadow: 5px 7px 5.8px rgba(0, 0, 0, 0.50);
+    animation: pulse 4s infinite;
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1.0); 
+  }
+  40% {
+    transform: scale(1.1); 
+    text-shadow: 7px 15px 5.8px rgba(0, 0, 0, 0.30);
+  }
+  100% {
+    transform: scale(1.0);
+  }
 }
