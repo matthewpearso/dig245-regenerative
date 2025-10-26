@@ -13,13 +13,20 @@
     <link rel="stylesheet" href="assets/css/styles.css">
 </head>
 <body class="background linden-hill-regular">
-
-	<h1>What is your fortune today?</h1>
-    <h2 class="subheader">Click the cookie to find out!</h2>
+    <div style="margin-bottom: 40px;">
+        <h1>What is your fortune today?</h1>
+        <h2 class="subheader">Click the cookie to find out!</h2>
+    </div>
+    
     <img id="wholecookie" class="wholecookie" src="assets/img/wholecookie.svg" data-open-src="assets/img/open-cookie.svg" alt="fortune cookie">    
-    <img id="leftcookie" src="assets/img/leftcookie.svg">
-    <img id="rightcookie" src="assets/img/rightcookie.svg">
-    <button id="resetButton" style="display:none;">Get another fortune</button>
+    
+    <div class="cookie-container">
+        <img id="leftcookie" src="assets/img/leftcookie.svg">
+        <p id="fortuneText"></p>
+        <img id="rightcookie" src="assets/img/rightcookie.svg">
+    </div>
+    
+    <button id="resetButton">Get another fortune</button>
     <script src="assets/js/main.js"></script>
 </body>
 </html>
