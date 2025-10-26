@@ -14,7 +14,7 @@
 
 h1{
     text-align: center;
-    margin-top: 130px;
+    margin-top: 80px;
     margin-bottom: 0px;
     text-shadow: 5px 7px 5.8px rgba(0, 0, 0, 0.50);
 }
@@ -47,7 +47,7 @@ h1{
     margin-left: auto;
     margin-right: auto;
     margin-top: 60px;
-    width: 300px;
+    width: 350px;
     animation: pulse 2.5s infinite;
     transition: transform 250ms ease, filter 250ms ease;
 }
@@ -61,11 +61,11 @@ h1{
 }
 
 #leftcookie {
-    width: 200px;
+    width: 250px;
     transform: rotate(20deg);
 }
 #rightcookie {
-    width: 200px;
+    width: 250px;
     transform: rotate(-20deg);
 }
 
@@ -73,7 +73,7 @@ h1{
     display: none;
     margin: 20px auto;
     margin-bottom: 40px;
-    margin-top: 100px;
+    margin-top: 50px;
     padding: 10px 20px;
     font-size: 18px;
     font-family: "Linden Hill", serif;
@@ -101,10 +101,12 @@ h1{
 }
 
 #fortuneText {
-    max-width: 500px; /* Adjust this value based on the space between cookies */
-    padding-left: 20px; /* space between the cookies and the text */
+    max-width: 700px; /* Adjust this value based on the space between cookies */
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
     padding-right: 20px;
-    margin-top: 80px;
+    margin-top: 110px;
     text-align: center; /* center the text */
     font-size: 30px; /* adjust font size as needed */
     color: black; /* ensure text is visible */
