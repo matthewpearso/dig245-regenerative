@@ -101,6 +101,7 @@ h1{
 }
 
 #fortuneText {
+    display: none;
     max-width: 700px; /* Adjust this value based on the space between cookies */
     padding-top: 5px;
     padding-bottom: 5px;
